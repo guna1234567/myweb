@@ -1,2 +1,2 @@
-[webservers]
-172.31.47.191 ansible_user=ec2-user 
+[guna]
+192.168.144.131
