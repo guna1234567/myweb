@@ -8,11 +8,7 @@
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
-	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://192.168.144.132:9000/</sonar.host.url>
 
-	</properties>
 	<dependencies>
 
 		
